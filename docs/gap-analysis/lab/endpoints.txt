@@ -1,0 +1,5 @@
+GET /api/v1/go
+POST /api/v1/checkout
+POST /api/v1/register
+PATCH /api/v1/notes/5
+DELETE /api/v1/items/7

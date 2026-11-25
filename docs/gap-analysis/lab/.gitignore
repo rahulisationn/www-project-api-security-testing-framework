@@ -1,0 +1,5 @@
+astf-v*.jar
+requests.log
+out/
+astf-scan.log
+mock.pid
